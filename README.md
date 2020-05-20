@@ -4,4 +4,4 @@ This repository holds the code solutions for the LeetCode problems solved on my 
 
 ### Videos
 
-(1. Two Sum)[https://www.youtube.com/watch?v=cOIi2iheX6o]
+[1. Two Sum](https://www.youtube.com/watch?v=cOIi2iheX6o)
